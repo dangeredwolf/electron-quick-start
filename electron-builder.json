@@ -1,0 +1,14 @@
+{
+	"mac": {
+		"hardenedRuntime": true,
+		"entitlements": "build/entitlements.plist",
+		"target": [
+			{
+				"target": "dmg",
+				"arch": [
+					"x64"
+				]
+			}
+		]
+	}
+}
